@@ -111,5 +111,6 @@ Create AccountTest() class to test the Account:
         }
     }
 
-#UML Diagram
+
+# UML Diagram
 ![Blank diagram (8)](https://github.com/SamanthaPaulineInes/INES_stateDesignPattern/assets/142489430/8b4ef6fe-8a64-46e5-888f-8be5f4328338)
